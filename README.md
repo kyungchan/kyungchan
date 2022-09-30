@@ -26,6 +26,6 @@
   
   
 ### :chart_with_upwards_trend: Statistics
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungchan&layout=compact&&hide_border=true)](https://github.com/kyungchan) | [![kyungchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungchan&&hide_border=true&show_icons=true)](https://github.com/kyungchan) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungchan&layout=compact&&hide_border=true)](https://github.com/kyungchan) | [![kyungchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungchan&&hide_border=true&show_icons=true&count_private=true)](https://github.com/kyungchan) |
 | ------------- | ------------- |
 </div>
