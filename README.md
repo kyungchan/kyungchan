@@ -3,7 +3,7 @@
 :blush: I'm a MEVN developer from South Korea 🇰🇷 
 
 💼 Applied Security Laboratory, Myongji University, South Korea
-* 🌐 Web Service Delvopment
+* 🌐 Web Service Development
 * 🌐 Web Server Management
 * 📜 X509 Certificate Issuance and Verification with OpenSSL
 * 📜 RFC5280 Conformance check
