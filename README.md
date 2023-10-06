@@ -5,10 +5,10 @@
 💼 Applied Security Laboratory, Myongji University, South Korea
 * 🚗 ISO 15118 Development
 * 🚗 OCPP Development
+* 🛡️ Information Security
+* 📜 X.509 PKI Development
 * 🌐 Web Service Development
 * 🌐 Web Server Management
-* 📜 X509 Certificate Issuance and Verification with OpenSSL
-* 📜 RFC5280 Conformance check
 
 💼 Freelance
  * 🌐 건설현장 위험요인 통합안전관리 시스템 (한양대학교) <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
@@ -20,9 +20,9 @@
 <div align="center">
 
 ### :sparkles: Skills
-<img src="https://img.shields.io/badge/RFC5280-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO15118-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/OCPP-000000?style=flat&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/ISO 15118-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/OCPP-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/X.509-000000?style=flat&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
