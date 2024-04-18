@@ -1,10 +1,10 @@
 ## About me
 
-:blush: I'm a MEVN developer from South Korea 🇰🇷 
+:blush: I'm a OCPP/ISO15118 system developer and MEVN web developer.
 
 💼 Applied Security Laboratory, Myongji University, South Korea
-* 🚗 ISO 15118 Development
-* 🚗 OCPP Development
+* 🚗 ISO 15118 System Development
+* 🚗 OCPP System Development
 * 🛡️ Information Security
 * 📜 X.509 PKI Development
 * 🌐 Web Service Development
