@@ -2,7 +2,7 @@
 
 :blush: OCPP/ISO 15118 system developer and MEVN web developer
 
-💼 Researcher / Applied Security Laboratory, Myongji University, South Korea (Advisor: [Minho Shin](http://hmcl.mju.ac.kr/))
+💼 Researcher / Applied Security Laboratory, Myongji University, South Korea (Advisor: Prof. [Minho Shin](http://hmcl.mju.ac.kr/))
 * 🚗 OCPP System Development
 * 🚗 ISO 15118 System Development
 * 🛡️ Information Security
