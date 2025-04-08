@@ -26,8 +26,11 @@ and MEVN-based web service development.
 
 ### :sparkles: Skills
 <img src="https://img.shields.io/badge/ISO 15118-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO 19885-000000?style=flat&logoColor=white" />
 <img src="https://img.shields.io/badge/OCPP-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/X.509-000000?style=flat&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/X.509-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/X.680-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/X.690-000000?style=flat&logoColor=white" /><br>
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"><br>
