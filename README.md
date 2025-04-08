@@ -3,14 +3,17 @@
 :blush: OCPP/ISO 15118 system developer and MEVN web developer
 
 💼 (2020.09 ~ ) Researcher / Applied Security Laboratory, Myongji University, South Korea (Advisor: Prof. [Minho Shin](http://hmcl.mju.ac.kr/))
+* 🚗 ISO 15118/ISO 19885 System Development
 * 🚗 OCPP System Development
-* 🚗 ISO 15118 System Development
-* 🛡️ Information Security
+* 🚗 Backend systems within the framework of ISO 15118
+* 🌐 X.680 ASN.1 and X.690/X.691/X.696 DER/BER/CER/PER/OER
 * 📜 X.509 PKI Development
+* 🛡️ Information Security
 * 🌐 Web Service Development
 * 🌐 Web Server Management
 
 💼 (2019.07 ~ ) Freelance
+ * 🌐 (2025) 다낭 난소 증후군 환자를 위한 정보 제공 및 건강 관리 웹 서비스 (단국대학교) <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
  * 🌐 (2024) 안산에스안과의원 웹 페이지 퍼블리싱 (로그인커뮤니케이션) <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
  * 🌐 (2022) 건설현장 위험요인 통합안전관리 시스템 (한양대학교) <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
  * 🌐 (2020) 난임 정보 및 중재 제공 웹 서비스 및 웹 크롤러 개발 (단국대학교) <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
