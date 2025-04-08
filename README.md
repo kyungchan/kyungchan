@@ -1,6 +1,8 @@
 ## About me
 
-:blush: OCPP/ISO 15118 system developer and MEVN web developer
+I'm a researcher at the Applied Security Laboratory of Myongji University, South Korea.  
+My work focuses on EV charging and hydrogen fueling communication protocols (ISO 15118, ISO 19885), secure communication systems,  
+and MEVN-based web service development.
 
 💼 (2020.09 ~ ) Researcher / Applied Security Laboratory, Myongji University, South Korea (Advisor: Prof. [Minho Shin](http://hmcl.mju.ac.kr/))
 * 🚗 ISO 15118/ISO 19885 System Development
